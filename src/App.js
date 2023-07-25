@@ -8,6 +8,7 @@ import About from './components/pages/About';
 import ContactUs from './components/pages/ContactUs';
 import Courts from './components/pages/Courts';
 import Aboutfr from './components/pages/Aboutfr';
+import BrowserRouter from 'react-router-dom/BrowserRouter'
 
 
 function App() {
@@ -18,6 +19,8 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
+      <BrowserRouter basename={window.location.pathname || ''}>
+
       
         <Route path='/' exact component={Home} />
         <Route path='/services' component={Services} />
@@ -25,6 +28,7 @@ function App() {
         <Route path='/contact-us' component={ContactUs} />
         <Route path='/courts' component={Courts} />
         <Route path='/aboutfr' component={Aboutfr} />
+        </BrowserRouter>
         
       </Switch>
       </Router>
