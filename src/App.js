@@ -8,20 +8,25 @@ import About from './components/pages/About';
 import ContactUs from './components/pages/ContactUs';
 import Courts from './components/pages/Courts';
 import Aboutfr from './components/pages/Aboutfr';
+import BrowserRouter from 'react-router-dom/BrowserRouter'
 
 function App() {
   return (
-    <Router>
+    
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Navbar />
       <Switch>
+      
         <Route path='/' exact component={Home} />
         <Route path='/services' component={Services} />
         <Route path='/about' component={About} />
         <Route path='/contact-us' component={ContactUs} />
         <Route path='/courts' component={Courts} />
         <Route path='/aboutfr' component={Aboutfr} />
+        
       </Switch>
-    </Router>
+      </BrowserRouter>
+    
   );
 }
 
