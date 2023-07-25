@@ -12,8 +12,10 @@ import BrowserRouter from 'react-router-dom/BrowserRouter'
 
 function App() {
   return (
+
     
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    
+    <BrowserRouter basename="/ouyix.github.io">
       <Navbar />
       <Switch>
       
