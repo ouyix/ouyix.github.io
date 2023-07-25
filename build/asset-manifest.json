@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ouyix.github.io/static/css/main.87121e88.chunk.css",
-    "main.js": "/ouyix.github.io/static/js/main.f58277fc.chunk.js",
-    "main.js.map": "/ouyix.github.io/static/js/main.f58277fc.chunk.js.map",
+    "main.js": "/ouyix.github.io/static/js/main.80462e0b.chunk.js",
+    "main.js.map": "/ouyix.github.io/static/js/main.80462e0b.chunk.js.map",
     "runtime-main.js": "/ouyix.github.io/static/js/runtime-main.bbb64f13.js",
     "runtime-main.js.map": "/ouyix.github.io/static/js/runtime-main.bbb64f13.js.map",
     "static/js/2.9ca71a72.chunk.js": "/ouyix.github.io/static/js/2.9ca71a72.chunk.js",
     "static/js/2.9ca71a72.chunk.js.map": "/ouyix.github.io/static/js/2.9ca71a72.chunk.js.map",
     "index.html": "/ouyix.github.io/index.html",
-    "precache-manifest.73e707c68ca9079817b6dc90500f1e2d.js": "/ouyix.github.io/precache-manifest.73e707c68ca9079817b6dc90500f1e2d.js",
+    "precache-manifest.191c9f450f17d89b83cec95bcd9808c1.js": "/ouyix.github.io/precache-manifest.191c9f450f17d89b83cec95bcd9808c1.js",
     "service-worker.js": "/ouyix.github.io/service-worker.js",
     "static/css/main.87121e88.chunk.css.map": "/ouyix.github.io/static/css/main.87121e88.chunk.css.map",
     "static/js/2.9ca71a72.chunk.js.LICENSE.txt": "/ouyix.github.io/static/js/2.9ca71a72.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.bbb64f13.js",
     "static/js/2.9ca71a72.chunk.js",
     "static/css/main.87121e88.chunk.css",
-    "static/js/main.f58277fc.chunk.js"
+    "static/js/main.80462e0b.chunk.js"
   ]
 }
