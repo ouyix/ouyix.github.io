@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b363afe5288064e549b7f9434d13661b",
+    "revision": "95ecac02999940349ef16eea540bc404",
     "url": "/ouyix.github.io/index.html"
   },
   {
-    "revision": "4121779605bd100f793c",
+    "revision": "74935debae9165b5442f",
     "url": "/ouyix.github.io/static/css/main.87121e88.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ouyix.github.io/static/js/2.9ca71a72.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4121779605bd100f793c",
-    "url": "/ouyix.github.io/static/js/main.f58277fc.chunk.js"
+    "revision": "74935debae9165b5442f",
+    "url": "/ouyix.github.io/static/js/main.80462e0b.chunk.js"
   },
   {
     "revision": "b74810d381bd8c19796e",
