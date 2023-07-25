@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPDJ7bHKkLQz5G7Wntw1w_i4EpzEZpIm9vewPZ5=s680-w680-h510",
+        "title": "Union Basketball Court",
+        "address": "349 Bruyère St, Ottawa, ON K1N 5G9"
+    },
+    {
+        "id": 2,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNao9KFsQj4-535EIUT0eTKSkWUSBUu3Wm2Xv6H=s680-w680-h510",
+        "title": "Springhurst Park Basketball Court",
+        "address": "63 Chestnut St, Ottawa, ON K1S 0Z9"
+    },
+    {
+        "id": 3,
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNhNRDlsqwkudb8H_S_VtsK9dYq_NpOiJ0yc5Fm=s680-w680-h510",
+        "title": "Fisher Courts",
+        "address": "250 Holland Ave, Ottawa, ON K1Y 0Y5"
+    }
+] 
