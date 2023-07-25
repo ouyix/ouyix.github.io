@@ -8,14 +8,14 @@ import About from './components/pages/About';
 import ContactUs from './components/pages/ContactUs';
 import Courts from './components/pages/Courts';
 import Aboutfr from './components/pages/Aboutfr';
-import BrowserRouter from 'react-router-dom/BrowserRouter'
+
 
 function App() {
   return (
 
     
     
-    <BrowserRouter basename="/ouyix.github.io">
+    <Router>
       <Navbar />
       <Switch>
       
@@ -27,7 +27,7 @@ function App() {
         <Route path='/aboutfr' component={Aboutfr} />
         
       </Switch>
-      </BrowserRouter>
+      </Router>
     
   );
 }
