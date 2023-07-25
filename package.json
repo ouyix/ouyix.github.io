@@ -1,7 +1,7 @@
 {
   "name": "navbar-dropdown-v1",
   "version": "0.1.0",
-  "homepage": "https://ouyix.github.io/ouyix.github.io",
+  "homepage": "https://ouyix.github.io/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
